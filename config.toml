@@ -1,0 +1,8 @@
+[general]
+mode="interface" # interface|file
+interface="enx58ef68b4b1a5"
+file="/media/veracrypt1/Workspace (7.7)/probe/bin/twt_big_1.pcap"
+
+[whatsapp]
+debug=true
+file=""
